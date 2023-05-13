@@ -7,7 +7,7 @@
  * para mostrar los datos de la persona en formato HTML.
  *
  * Autor: Yasel Suárez
- * Versión: 1.0
+ * Versión: 2.0
  */
 
 class Persona {

@@ -4,11 +4,11 @@
  *
  * Este script contiene dos funciones: sumar y restar.
  * El autor es Yasel Suárez.
- * La versión es 1.0.
+ * La versión es 2.0.
  *
  * @package distancia23
  * @subpackage scripts
- * @version 1.0
+ * @version 2.0
  * @author Yasel Suárez
  */
 
